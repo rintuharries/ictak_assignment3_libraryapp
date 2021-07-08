@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    flex-direction:row;
+    align-content: center;
+    width: 100%;
+}
+.left{
+    background-color: blue;
+    width: 20%;
+    height: 600px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    color: cornsilk;
+}
+.right{
+    background-color: blue;
+    width: 80%;
+    height: 600px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    color: cornsilk;
+}
